@@ -156,3 +156,32 @@
     padding-right: 1.2rem;
   }
 }
+
+@media (max-width: 560px) {
+  .hero-inline-actions {
+    width: 100%;
+  }
+
+  .hero-inline-actions > * {
+    width: 100%;
+  }
+
+  .claims-card {
+    padding: 1.25rem;
+  }
+
+  .claims-logo-image,
+  .claims-logo-fallback {
+    width: 58px;
+    height: 58px;
+    border-radius: 18px;
+  }
+
+  .info-item {
+    align-items: flex-start;
+  }
+
+  .contact-text {
+    padding: 1.35rem;
+  }
+}

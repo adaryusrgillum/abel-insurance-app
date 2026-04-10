@@ -296,7 +296,41 @@
     padding-top: calc(var(--nav-h) + 3rem);
   }
 
+  .blog-hero-copy h1,
+  .blog-post-hero-copy h1 {
+    font-size: clamp(2.25rem, 10vw, 3.4rem);
+  }
+
   .blog-post-hero-media {
     height: 260px;
+  }
+}
+
+@media (max-width: 560px) {
+  .blog-feature-body,
+  .blog-card-body,
+  .blog-sidebar-card,
+  .blog-article-cta {
+    padding: 1.2rem;
+  }
+
+  .blog-card-body h3,
+  .blog-sidebar-card h3 {
+    font-size: 1.25rem;
+  }
+
+  .blog-topic-chip {
+    font-size: 0.86rem;
+    padding: 0.6rem 0.9rem;
+  }
+
+  .blog-post-hero-media {
+    height: 220px;
+  }
+
+  .blog-article-actions .btn-secondary,
+  .blog-article-actions .btn-primary,
+  .blog-cta-strip .btn-primary {
+    width: 100%;
   }
 }

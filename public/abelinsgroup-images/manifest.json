@@ -1,0 +1,1159 @@
+{
+  "start_url": "https://www.abelinsgroup.com/",
+  "sitemaps_processed": [
+    "https://www.abelinsgroup.com/category-sitemap.xml",
+    "https://www.abelinsgroup.com/page-sitemap.xml",
+    "https://www.abelinsgroup.com/post-sitemap.xml",
+    "https://www.abelinsgroup.com/sitemap.xml",
+    "https://www.abelinsgroup.com/sitemap_index.xml",
+    "https://www.abelinsgroup.com/team_members-sitemap.xml"
+  ],
+  "pages_crawled": 189,
+  "stylesheets_crawled": 0,
+  "images_found": 190,
+  "images_downloaded": 190,
+  "naming_scheme": "original directories with filename truncated to 80 chars plus 10-char SHA1 suffix",
+  "errors": [],
+  "items": [
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/06/Auto-Insurance-Family-Driving-to-a-Vacation-Destination-with-Kids-in-the-Back-of-the-Car.jpg",
+      "local_path": "wp-content/uploads/2021/06/Auto-Insurance-Family-Driving-to-a-Vacation-Destination-with-Kids-in-the-Back-of-725aba53e4.jpg",
+      "content_type": "",
+      "bytes": 192079
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/06/Home-Insurance-Family-Home-with-a-Red-Door-and-American-Flag-Outside.jpg",
+      "local_path": "wp-content/uploads/2021/06/Home-Insurance-Family-Home-with-a-Red-Door-and-American-Flag-Outside-3eb01e31e9.jpg",
+      "content_type": "",
+      "bytes": 250916
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/06/Request-Insurance-Quote-Business-People-Discussing-an-Insurance-Policy.jpg",
+      "local_path": "wp-content/uploads/2021/06/Request-Insurance-Quote-Business-People-Discussing-an-Insurance-Policy-3069f125d4.jpg",
+      "content_type": "",
+      "bytes": 147081
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Aviation-Insurance-Small-Plane-Waiting-on-the-Runway-with-a-Big-Blue-Sky.jpg",
+      "local_path": "wp-content/uploads/2021/09/Aviation-Insurance-Small-Plane-Waiting-on-the-Runway-with-a-Big-Blue-Sky-8a08f6e686.jpg",
+      "content_type": "",
+      "bytes": 140851
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Business-Auto-Insurance-Fleet-of-Cars-Sitting-in-the-Parking-Lot-with-the-Sun-Behind.jpg",
+      "local_path": "wp-content/uploads/2021/09/Business-Auto-Insurance-Fleet-of-Cars-Sitting-in-the-Parking-Lot-with-the-Sun-Be-a6db0a2ef7.jpg",
+      "content_type": "",
+      "bytes": 187039
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Carpenter-Insurance-Man-Working-In-His-Woodshop-on-a-Large-Wood-Project.jpg",
+      "local_path": "wp-content/uploads/2021/09/Carpenter-Insurance-Man-Working-In-His-Woodshop-on-a-Large-Wood-Project-a2318b3edb.jpg",
+      "content_type": "",
+      "bytes": 151145
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Church-Insurance-White-Church-During-Sunset-in-an-October-Fall.jpg",
+      "local_path": "wp-content/uploads/2021/09/Church-Insurance-White-Church-During-Sunset-in-an-October-Fall-e97d363185.jpg",
+      "content_type": "",
+      "bytes": 206722
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Commercial-Umbrella-Insurance-Confident-Woman-Looking-Over-a-Board-Room-in-a-Fun-Colored-Shirt.jpg",
+      "local_path": "wp-content/uploads/2021/09/Commercial-Umbrella-Insurance-Confident-Woman-Looking-Over-a-Board-Room-in-a-Fun-aeba0fa59f.jpg",
+      "content_type": "",
+      "bytes": 184804
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Cyber-Liability-Group-of-Employees-Working-on-Code-to-Prevent-Cyber-Attacks.jpg",
+      "local_path": "wp-content/uploads/2021/09/Cyber-Liability-Group-of-Employees-Working-on-Code-to-Prevent-Cyber-Attacks-49f48d35ee.jpg",
+      "content_type": "",
+      "bytes": 127717
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Insurance-Companies-An-Agent-in-a-Suit-Explains-Options-to-Clients-a-Mature-Couple-in-an-Office-Filled-with-Large-Windows.jpg",
+      "local_path": "wp-content/uploads/2021/09/Insurance-Companies-An-Agent-in-a-Suit-Explains-Options-to-Clients-a-Mature-Coup-1ba9e9e02f.jpg",
+      "content_type": "",
+      "bytes": 113220
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Meet-Our-Team-Professional-and-Welcoming-Group-at-a-Conference-Table-Faces-the-Camera-Team-Leader-Sitting-on-the-Table-with-Arms-Folded.jpg",
+      "local_path": "wp-content/uploads/2021/09/Meet-Our-Team-Professional-and-Welcoming-Group-at-a-Conference-Table-Faces-the-C-23d05a0444.jpg",
+      "content_type": "",
+      "bytes": 96241
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/09/Refer-a-Friend-Two-Business-Women-in-an-Insurance-Meeting-Discussing-New-Business.jpg",
+      "local_path": "wp-content/uploads/2021/09/Refer-a-Friend-Two-Business-Women-in-an-Insurance-Meeting-Discussing-New-Busines-49abcd0426.jpg",
+      "content_type": "",
+      "bytes": 96374
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Abatement-Contractor-Insurance-Abatement-Worker-in-a-Protective-Suit-with-Mask-Sprays-for-Mold-in-the-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Abatement-Contractor-Insurance-Abatement-Worker-in-a-Protective-Suit-with-Mask-S-67ac1845d4.jpg",
+      "content_type": "",
+      "bytes": 86735
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Alarm-Contractor-Insurance-Close-up-of-CCTV-with-View-of-Home-in-the-Background-and-Heavily-Blurred.jpg",
+      "local_path": "wp-content/uploads/2021/10/Alarm-Contractor-Insurance-Close-up-of-CCTV-with-View-of-Home-in-the-Background-901d817cd1.jpg",
+      "content_type": "",
+      "bytes": 58391
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Arborist-and-Tree-Services-Insurance-Arborist-with-a-Saw-and-Harness-Pruning-a-Tree-While-Being-Suspending-High-off-the-Ground-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Arborist-and-Tree-Services-Insurance-Arborist-with-a-Saw-and-Harness-Pruning-a-T-d2802c9165.jpg",
+      "content_type": "",
+      "bytes": 229993
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Architect-Insurance-Close-up-of-Architect-and-Fellow-Colleague-Examining-an-Architectural-Design-Blueprint-on-a-Desk-during-a-Project-Meeting-Discussion.jpg",
+      "local_path": "wp-content/uploads/2021/10/Architect-Insurance-Close-up-of-Architect-and-Fellow-Colleague-Examining-an-Arch-25e80ac0c1.jpg",
+      "content_type": "",
+      "bytes": 87488
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Art-Gallery-Insurance-Waist-up-Portrait-of-Positive-Young-Man-Visiting-an-Art-Exhibition-in-a-Downtown-Art-Gallery.jpg",
+      "local_path": "wp-content/uploads/2021/10/Art-Gallery-Insurance-Waist-up-Portrait-of-Positive-Young-Man-Visiting-an-Art-Ex-a7ddb5da93.jpg",
+      "content_type": "",
+      "bytes": 94285
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Beauty-Salon-Insurance-Young-Woman-Looking-for-Changes-and-Getting-Hairstyle-Advice-from-Stylist-at-a-Beauty-Salon.jpg",
+      "local_path": "wp-content/uploads/2021/10/Beauty-Salon-Insurance-Young-Woman-Looking-for-Changes-and-Getting-Hairstyle-Adv-8e217d0211.jpg",
+      "content_type": "",
+      "bytes": 103431
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Brewery-Insurance-Close-up-of-a-Local-Brewer-Owner-Filling-up-Beer-in-a-Tall-Glass-from-the-Tank-at-a-Small-Brewery.jpg",
+      "local_path": "wp-content/uploads/2021/10/Brewery-Insurance-Close-up-of-a-Local-Brewer-Owner-Filling-up-Beer-in-a-Tall-Gla-9c8c6003aa.jpg",
+      "content_type": "",
+      "bytes": 98011
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Builders-Risk-Insurance-Hands-of-Architect-and-Engineer-Working-on-a-Blueprint-with-Model-Building-and-Engineering-Tools-of-Working-Site-in-the-Background.jpg",
+      "local_path": "wp-content/uploads/2021/10/Builders-Risk-Insurance-Hands-of-Architect-and-Engineer-Working-on-a-Blueprint-w-61f275989b.jpg",
+      "content_type": "",
+      "bytes": 80731
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Business-Owners-Insurance-Portrait-of-a-Smiling-and-Happy-Employee-in-a-Successful-and-Modern-Office-with-Fellow-Employees-Blurred-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Business-Owners-Insurance-Portrait-of-a-Smiling-and-Happy-Employee-in-a-Successf-2d73587b9d.jpg",
+      "content_type": "",
+      "bytes": 101471
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Cannabis-Insurance-Customer-Opening-a-Glass-Jar-and-Examining-Cannabis-Sativa-at-a-Local-Cannabis-Shop.jpg",
+      "local_path": "wp-content/uploads/2021/10/Cannabis-Insurance-Customer-Opening-a-Glass-Jar-and-Examining-Cannabis-Sativa-at-e3263aa03e.jpg",
+      "content_type": "",
+      "bytes": 89546
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Captive-Insurance-Management-Confident-Business-Directors-Discussing-Productive-Strategy-during-a-Brainstorming-Meeting-with-Laptops-in-a-Large-Conference-Room1.jpg",
+      "local_path": "wp-content/uploads/2021/10/Captive-Insurance-Management-Confident-Business-Directors-Discussing-Productive-fa95e79050.jpg",
+      "content_type": "",
+      "bytes": 130966
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Cheer-Gym-Insurance-Group-of-Cheerleaders-Performing-Outdoors-at-a-High-School-Championship-Game-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Cheer-Gym-Insurance-Group-of-Cheerleaders-Performing-Outdoors-at-a-High-School-C-d194d5d267.jpg",
+      "content_type": "",
+      "bytes": 88781
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Child-Care-Center-Insurance-Day-Care-Employee-or-Kindergarten-Teacher-Playing-with-Young-Children-in-the-Classroom-and-Creating-Artwork-and-Building-Blocks-Together.jpg",
+      "local_path": "wp-content/uploads/2021/10/Child-Care-Center-Insurance-Day-Care-Employee-or-Kindergarten-Teacher-Playing-wi-8a532ae053.jpg",
+      "content_type": "",
+      "bytes": 133114
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Child-Life-Insurance-Cute-Young-Girl-Focus-Playing-Outdoors-and-Running-Ahead-of-Her-Two-Older-Siblings-in-the-Summertime-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Child-Life-Insurance-Cute-Young-Girl-Focus-Playing-Outdoors-and-Running-Ahead-of-313fffd3f7.jpg",
+      "content_type": "",
+      "bytes": 96888
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Classic-Car-Insurance-Close-up-of-Vintage-Cars-in-a-Parking-Lot-on-Display-at-a-Car-Show-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Classic-Car-Insurance-Close-up-of-Vintage-Cars-in-a-Parking-Lot-on-Display-at-a-122008aba0.jpg",
+      "content_type": "",
+      "bytes": 133745
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Commercial-Bonds-Focus-On-a-Young-Woman-Sitting-in-a-Board-Room-during-a-Business-Meeting-and-Smiling-at-the-Camera-with-the-Background-Blurred.jpg",
+      "local_path": "wp-content/uploads/2021/10/Commercial-Bonds-Focus-On-a-Young-Woman-Sitting-in-a-Board-Room-during-a-Busines-a201a159c7.jpg",
+      "content_type": "",
+      "bytes": 96799
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Commercial-Property-Insurance-New-Commercial-Property-on-the-Ground-Floor-of-a-Residential-Building-with-Panoramic-Windows-in-Development-and-Available-for-Rent.jpg",
+      "local_path": "wp-content/uploads/2021/10/Commercial-Property-Insurance-New-Commercial-Property-on-the-Ground-Floor-of-a-R-7b40488f77.jpg",
+      "content_type": "",
+      "bytes": 116028
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Concrete-Contractor-Insurance-Civil-Engineer-Checking-the-Concrete-Pouring-during-a-Commercial-Concreting-for-the-Floors-of-a-New-Building.jpg",
+      "local_path": "wp-content/uploads/2021/10/Concrete-Contractor-Insurance-Civil-Engineer-Checking-the-Concrete-Pouring-durin-b9154619d1.jpg",
+      "content_type": "",
+      "bytes": 126651
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Condo-Building-Insurance-Angled-View-Looking-up-at-a-White-and-Black-Colored-Modern-Condo-Building-with-Sunlight-Shining-and-Reflecting-on-Windows-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Condo-Building-Insurance-Angled-View-Looking-up-at-a-White-and-Black-Colored-Mod-bd3d4aa148.jpg",
+      "content_type": "",
+      "bytes": 85143
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Condo-Insurance-Modern-View-of-a-Living-Room-In-an-Upscale-Condo-With-Large-Windows-Leading-to-a-Balcony-With-Foliage-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Condo-Insurance-Modern-View-of-a-Living-Room-In-an-Upscale-Condo-With-Large-Wind-ed6c725a7f.jpg",
+      "content_type": "",
+      "bytes": 149130
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Contractor-Insurance-Portrait-of-a-Smiling-Young-Construction-Worker-in-a-Hard-Hat-with-Arms-Crossed-Standing-in-Front-Construction-Equipment-at-a-Construction-Site.jpg",
+      "local_path": "wp-content/uploads/2021/10/Contractor-Insurance-Portrait-of-a-Smiling-Young-Construction-Worker-in-a-Hard-H-54604d903d.jpg",
+      "content_type": "",
+      "bytes": 110577
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Crime-Insurance-Close-up-of-Young-Man-in-T-Shirt-and-Jeans-with-Hands-in-Handcuffs-Placed-behind-His-Back.jpg",
+      "local_path": "wp-content/uploads/2021/10/Crime-Insurance-Close-up-of-Young-Man-in-T-Shirt-and-Jeans-with-Hands-in-Handcuf-6374ea68bb.jpg",
+      "content_type": "",
+      "bytes": 80902
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Crop-Insurance-Large-Commercial-Farming-Tractor-Sprays-Pesticides-on-a-Soy-Bean-Field-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Crop-Insurance-Large-Commercial-Farming-Tractor-Sprays-Pesticides-on-a-Soy-Bean-a2b02a4028.jpg",
+      "content_type": "",
+      "bytes": 155460
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Cyber-Security-Contractor-Insurance-Data-Center-Engineer-Using-His-Laptop-at-a-Server-Farm-Cloud-Facility-to-Monitor-Data-Protection-Network-for-Cyber-Security.jpg",
+      "local_path": "wp-content/uploads/2021/10/Cyber-Security-Contractor-Insurance-Data-Center-Engineer-Using-His-Laptop-at-a-S-57bc8385e8.jpg",
+      "content_type": "",
+      "bytes": 162025
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Dance-Studio-Insurance-Focus-On-Pointed-Ballet-Shoes-Hanging-on-Ballet-Barre-with-a-Single-Ballerina-Training-in-the-Class-Room-Blurred-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Dance-Studio-Insurance-Focus-On-Pointed-Ballet-Shoes-Hanging-on-Ballet-Barre-wit-f51e80127a.jpg",
+      "content_type": "",
+      "bytes": 69200
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Dealership-Insurance-Couple-Visiting-a-Car-Dealership-and-Negotiating-with-a-Salesman-in-the-Auto-Showroom-before-Making-a-Car-Purchase.jpg",
+      "local_path": "wp-content/uploads/2021/10/Dealership-Insurance-Couple-Visiting-a-Car-Dealership-and-Negotiating-with-a-Sal-c22bd4d628.jpg",
+      "content_type": "",
+      "bytes": 151624
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Directors-and-Officers-Liability-Insurance-Group-of-Business-Directors-and-Colleagues-Having-a-Work-Discussion-over-Laptops-While-Standing-in-Front-of-Pane-Glass-Windows-Indoors.jpg",
+      "local_path": "wp-content/uploads/2021/10/Directors-and-Officers-Liability-Insurance-Group-of-Business-Directors-and-Colle-759da5208d.jpg",
+      "content_type": "",
+      "bytes": 111946
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Distillery-Insurance-Close-up-of-an-Glassware-and-an-Alembic-Still-Used-for-Making-Alcohol-inside-a-Distillery-with-Whisky-Barrels-in-the-Background.jpg",
+      "local_path": "wp-content/uploads/2021/10/Distillery-Insurance-Close-up-of-an-Glassware-and-an-Alembic-Still-Used-for-Maki-69bd08ed31.jpg",
+      "content_type": "",
+      "bytes": 122214
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Driving-School-Insurance-Young-Woman-Taking-a-Driving-Test-With-Her-Instructor-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Driving-School-Insurance-Young-Woman-Taking-a-Driving-Test-With-Her-Instructor-o-0d03de210d.jpg",
+      "content_type": "",
+      "bytes": 92898
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Drywall-Contractor-Insurance-Interior-Work-of-a-Large-Room-With-Blurred-View-of-a-Carpenter-Working-on-the-Ceiling-and-Repairing-Drywall.jpg",
+      "local_path": "wp-content/uploads/2021/10/Drywall-Contractor-Insurance-Interior-Work-of-a-Large-Room-With-Blurred-View-of-6f37902b35.jpg",
+      "content_type": "",
+      "bytes": 102753
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Electrical-Contractor-Insurance-Close-up-View-of-an-Electrician-Working-to-Connect-Electrical-Wires-of-the-Electrical-System-Switchboard-in-the-Control-Cabinet.jpg",
+      "local_path": "wp-content/uploads/2021/10/Electrical-Contractor-Insurance-Close-up-View-of-an-Electrician-Working-to-Conne-29ad704d03.jpg",
+      "content_type": "",
+      "bytes": 118598
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Employment-Practice-Liability-Insurance-Portrait-of-Smiling-Optimistic-Manager-Looking-at-His-Female-Colleague-While-Sitting-at-Table-and-Having-a-Pleasant-Discussion.jpg",
+      "local_path": "wp-content/uploads/2021/10/Employment-Practice-Liability-Insurance-Portrait-of-Smiling-Optimistic-Manager-L-cd7f8e083a.jpg",
+      "content_type": "",
+      "bytes": 78905
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Engineer-Insurance-A-Portrait-of-an-Industrial-Woman-Engineer-Standing-in-a-Large-Factory.jpg",
+      "local_path": "wp-content/uploads/2021/10/Engineer-Insurance-A-Portrait-of-an-Industrial-Woman-Engineer-Standing-in-a-Larg-f5230605fa.jpg",
+      "content_type": "",
+      "bytes": 127778
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Environmental-Insurance-Mold-and-Damage-after-Rainwater-Leakage-against-Concrete-in-a-Damp-Basement.jpg",
+      "local_path": "wp-content/uploads/2021/10/Environmental-Insurance-Mold-and-Damage-after-Rainwater-Leakage-against-Concrete-f5c8a54b39.jpg",
+      "content_type": "",
+      "bytes": 156561
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Equipment-Rental-Insurance-Row-of-Construction-Equipment-Displayed-for-Rental-Use-Behind-a-Warehouse-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Equipment-Rental-Insurance-Row-of-Construction-Equipment-Displayed-for-Rental-Us-ed4cfc65ad.jpg",
+      "content_type": "",
+      "bytes": 199101
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Errors-and-Omissions-Insurance-Business-Colleagues-Discussing-E_O-Legal-Advice-over-a-Business-Report-in-the-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Errors-and-Omissions-Insurance-Business-Colleagues-Discussing-E_O-Legal-Advice-o-5636f3942b.jpg",
+      "content_type": "",
+      "bytes": 101072
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Event-Insurance-Focus-On-the-Conference-Speaker-Using-a-Microphone-and-Standing-in-Front-of-a-Group-of-People-with-the-Audience-Blurred-in-the-Background.jpg",
+      "local_path": "wp-content/uploads/2021/10/Event-Insurance-Focus-On-the-Conference-Speaker-Using-a-Microphone-and-Standing-f6e70c99a7.jpg",
+      "content_type": "",
+      "bytes": 60853
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Excavation-Contractor-Insurance-Stylized-Image-of-an-Excavator-Working-at-Construction-Site-on-Summer-Day-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Excavation-Contractor-Insurance-Stylized-Image-of-an-Excavator-Working-at-Constr-3e560bc53d.jpg",
+      "content_type": "",
+      "bytes": 168968
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Excess-Liability-Insurance-Father-and-Son-Laughing-as-Dad-Gives-Son-a-Piggyback-Ride-as-They-Walk-along-the-Beach-Together-in-the-Winter.jpg",
+      "local_path": "wp-content/uploads/2021/10/Excess-Liability-Insurance-Father-and-Son-Laughing-as-Dad-Gives-Son-a-Piggyback-e25cf622b0.jpg",
+      "content_type": "",
+      "bytes": 127671
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Farm-Insurance-Portrait-of-Farmer-and-His-Son-Walking-along-Their-Fields-of-Wheat-with-Back-Towards-Camera.jpg",
+      "local_path": "wp-content/uploads/2021/10/Farm-Insurance-Portrait-of-Farmer-and-His-Son-Walking-along-Their-Fields-of-Whea-f7b2862486.jpg",
+      "content_type": "",
+      "bytes": 152208
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Fiduciary-Liability-Insurance-Close-up-of-a-Business-Meeting-with-a-Financial-Adviser-and-Investor-Examining-Documentation-and-Legal-Agreements-in-the-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Fiduciary-Liability-Insurance-Close-up-of-a-Business-Meeting-with-a-Financial-Ad-5dd7781a7d.jpg",
+      "content_type": "",
+      "bytes": 53950
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Financial-Institution-Insurance-Couple-Meeting-With-a-Financial-Advisor-and-Bank-Manager-for-Assistance-at-His-Office-in-a-Modern-Building.jpg",
+      "local_path": "wp-content/uploads/2021/10/Financial-Institution-Insurance-Couple-Meeting-With-a-Financial-Advisor-and-Bank-9a42b2e115.jpg",
+      "content_type": "",
+      "bytes": 81537
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Fire-Department-Insurance-Close-up-Focus-of-Fire-Hoses-in-a-Red-Fire-Truck-Dug-Out-and-Ready-for-Use-With-the-Rest-of-Truck-Blurred.jpg",
+      "local_path": "wp-content/uploads/2021/10/Fire-Department-Insurance-Close-up-Focus-of-Fire-Hoses-in-a-Red-Fire-Truck-Dug-O-2164a82b5f.jpg",
+      "content_type": "",
+      "bytes": 98968
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Fire-Protection-Contractor-Insurance-Focus-on-Fire-Extinguishers-With-an-Engineer-Checking-Industrial-Fire-Control-System-to-Ensure-Readiness-in-the-Event-of-a-Fire.jpg",
+      "local_path": "wp-content/uploads/2021/10/Fire-Protection-Contractor-Insurance-Focus-on-Fire-Extinguishers-With-an-Enginee-c09e09ad79.jpg",
+      "content_type": "",
+      "bytes": 87078
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Fitness-Center-Insurance-Young-Woman-Exercising-and-Catching-Her-Breath-While-Training-at-Fitness-Club-with-Exercise-Equipment-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Fitness-Center-Insurance-Young-Woman-Exercising-and-Catching-Her-Breath-While-Tr-d782dfd033.jpg",
+      "content_type": "",
+      "bytes": 92186
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Fleet-Insurance-Delivery-Service-of-White-Vans-and-Small-Trucks-Parked-in-a-Row-in-Front-of-Factory-Warehouse-Distribution-Plant-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Fleet-Insurance-Delivery-Service-of-White-Vans-and-Small-Trucks-Parked-in-a-Row-ab2c59c5e8.jpg",
+      "content_type": "",
+      "bytes": 141981
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Flood-Insurance-Close-up-View-Looking-Up-From-a-Flooded-Wet-Floor-in-a-Modern-Kitchen-With-Background-Blurred.jpg",
+      "local_path": "wp-content/uploads/2021/10/Flood-Insurance-Close-up-View-Looking-Up-From-a-Flooded-Wet-Floor-in-a-Modern-Ki-d119afefcd.jpg",
+      "content_type": "",
+      "bytes": 56410
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Flooring-Contractor-Insurance-Close-up-of-a-Carpenter-Skillfully-Installing-and-Connecting-the-Panels-of-Parquet-Floating-Floor-in-a-New-Home.jpg",
+      "local_path": "wp-content/uploads/2021/10/Flooring-Contractor-Insurance-Close-up-of-a-Carpenter-Skillfully-Installing-and-03edf2b166.jpg",
+      "content_type": "",
+      "bytes": 67054
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Food-Distributor-Insurance-Supervisor-Checking-Contents-of-Food-Distribution-Shipment-to-Be-Sent-by-Truck-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Food-Distributor-Insurance-Supervisor-Checking-Contents-of-Food-Distribution-Shi-9ddbb6d933.jpg",
+      "content_type": "",
+      "bytes": 105914
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Funeral-Home-Insurance-Close-up-of-Woman-Holding-Lily-Flowers-While-Other-Hand-Is-Resting-on-a-Coffin-at-a-Funeral-in-a-Funeral-Home.jpg",
+      "local_path": "wp-content/uploads/2021/10/Funeral-Home-Insurance-Close-up-of-Woman-Holding-Lily-Flowers-While-Other-Hand-I-8a6ba720f0.jpg",
+      "content_type": "",
+      "bytes": 71855
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Furrier-and-Garment-Insurance-Close-up-of-Luxury-Fur-Coats-on-Display-at-a-Small-Garment-Dealer-Boutique.jpg",
+      "local_path": "wp-content/uploads/2021/10/Furrier-and-Garment-Insurance-Close-up-of-Luxury-Fur-Coats-on-Display-at-a-Small-7b24ff6b3d.jpg",
+      "content_type": "",
+      "bytes": 88387
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Garage-Repair-Shop-Insurance-Auto-Mechanic-Working-with-His-Hands-and-Servicing-a-Car-and-Repairing-the-Engine-in-the-Automotive-Workshop-with-a-Wrench.jpg",
+      "local_path": "wp-content/uploads/2021/10/Garage-Repair-Shop-Insurance-Auto-Mechanic-Working-with-His-Hands-and-Servicing-a35d79c3a1.jpg",
+      "content_type": "",
+      "bytes": 97678
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Gas-Station-Insurance-Close-up-View-of-a-Gray-Metallic-Car-Refueling-at-a-Gas-Station-With-Selective-Focus-and-Background-Blurred-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Gas-Station-Insurance-Close-up-View-of-a-Gray-Metallic-Car-Refueling-at-a-Gas-St-0f262059bc.jpg",
+      "content_type": "",
+      "bytes": 94398
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/General-Liability-Insurance-Manager-Leads-Personnel-Meeting-with-Business-Colleagues-and-Brainstorms-Together-in-a-Conference-Room-of-a-Modern-Office-with-Large-Windows.jpg",
+      "local_path": "wp-content/uploads/2021/10/General-Liability-Insurance-Manager-Leads-Personnel-Meeting-with-Business-Collea-65c2eb05b5.jpg",
+      "content_type": "",
+      "bytes": 96026
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Golf-Course-Insurance-Close-up-of-the-Bottom-Half-of-a-Golfer-Taking-a-Swing-at-the-Golf-Course-Driving-Range-on-a-Summer-Day-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Golf-Course-Insurance-Close-up-of-the-Bottom-Half-of-a-Golfer-Taking-a-Swing-at-52724107ba.jpg",
+      "content_type": "",
+      "bytes": 75408
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Grocery-Store-Insurance-Happy-Man-Shopping-With-Grocery-Basket-and-Walking-Through-Fresh-Produce-Section-of-the-Store.jpg",
+      "local_path": "wp-content/uploads/2021/10/Grocery-Store-Insurance-Happy-Man-Shopping-With-Grocery-Basket-and-Walking-Throu-4f82c77b15.jpg",
+      "content_type": "",
+      "bytes": 141783
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/HVAC-Contractor-Insurance-HVAC-Mechanic-Using-Pressure-Gauge-Equipment-for-Home-Air-Conditioner-After-Maintenance-and-Checking-Outdoor-Air-Compressor-Unit.jpg",
+      "local_path": "wp-content/uploads/2021/10/HVAC-Contractor-Insurance-HVAC-Mechanic-Using-Pressure-Gauge-Equipment-for-Home-a0127dab96.jpg",
+      "content_type": "",
+      "bytes": 87434
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/High-Net-Worth-Insurance-Luxurious-New-Construction-of-Home-With-Lots-of-Windows-in-a-Scenic-Wooded-Area-and-Large-Driveway.jpg",
+      "local_path": "wp-content/uploads/2021/10/High-Net-Worth-Insurance-Luxurious-New-Construction-of-Home-With-Lots-of-Windows-71c87cbb9a.jpg",
+      "content_type": "",
+      "bytes": 301787
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Home-and-Auto-Insurance-Bundled-Close-up-View-of-a-Luxury-Car-Parked-in-Front-of-a-Large-Modern-Home-Blurred-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Home-and-Auto-Insurance-Bundled-Close-up-View-of-a-Luxury-Car-Parked-in-Front-of-bbc3002f7e.jpg",
+      "content_type": "",
+      "bytes": 120710
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Homeowners-Association-Insurance-Row-of-Colorful-Red-Yellow-Blue-White-and-Green-Painted-Residential-Townhouses-With-Brick-Patio-in-the-Summer.jpg",
+      "local_path": "wp-content/uploads/2021/10/Homeowners-Association-Insurance-Row-of-Colorful-Red-Yellow-Blue-White-and-Green-6c9d71a700.jpg",
+      "content_type": "",
+      "bytes": 286742
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Hospitality-Insurance-Housekeeper-of-Luxury-Hotel-Cleaning-a-Hotel-Room-and-Making-the-Bed-on-a-Bright-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Hospitality-Insurance-Housekeeper-of-Luxury-Hotel-Cleaning-a-Hotel-Room-and-Maki-7a06b2b9b3.jpg",
+      "content_type": "",
+      "bytes": 72375
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/IT-Contractor-Insurance-Young-Female-Programmer-Working-in-a-Modern-Office-for-Tech-Support-and-Software-Development.jpg",
+      "local_path": "wp-content/uploads/2021/10/IT-Contractor-Insurance-Young-Female-Programmer-Working-in-a-Modern-Office-for-T-610d9012ea.jpg",
+      "content_type": "",
+      "bytes": 137277
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Identity-Theft-Insurance-Man-Using-Credit-Card-to-Make-an-Internet-Purchase-for-Online-Shopping-with-Mobile-Banking-App-on-His-Smartphone.jpg",
+      "local_path": "wp-content/uploads/2021/10/Identity-Theft-Insurance-Man-Using-Credit-Card-to-Make-an-Internet-Purchase-for-b1ca3c61b7.jpg",
+      "content_type": "",
+      "bytes": 52919
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Individual-Life-Insurance-Young-Son-Kissing-His-Smiling-Mother-While-Being-Held-at-the-Beach-on-a-Cloudy-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Individual-Life-Insurance-Young-Son-Kissing-His-Smiling-Mother-While-Being-Held-468999e245.jpg",
+      "content_type": "",
+      "bytes": 106309
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Inland-Marine-Insurance-White-Semi-truck-Transporting-Cargo-on-the-Highway-and-Delivering-Freight-across-Country-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Inland-Marine-Insurance-White-Semi-truck-Transporting-Cargo-on-the-Highway-and-D-323eb95fe9.jpg",
+      "content_type": "",
+      "bytes": 107845
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Interior-Designer-Insurance-Interior-Designer-Workspace-With-Interior-Paint-Color-Swatches-and-Furniture-Material-Samples.jpg",
+      "local_path": "wp-content/uploads/2021/10/Interior-Designer-Insurance-Interior-Designer-Workspace-With-Interior-Paint-Colo-6922315f97.jpg",
+      "content_type": "",
+      "bytes": 118403
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Investment-Advisor-Insurance-Young-Couple-Talking-With-a-Financial-Advisor-Offering-Advice-and-Financial-Counseling-While-Using-a-Digital-Tablet-in-the-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Investment-Advisor-Insurance-Young-Couple-Talking-With-a-Financial-Advisor-Offer-4750d3c489.jpg",
+      "content_type": "",
+      "bytes": 110537
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Janitorial-Services-Insurance-Female-Janitor-Mopping-the-Floor-of-a-Restroom-With-Cleaning-Cart-Focus-and-View-of-Sinks-in-the-Background.jpg",
+      "local_path": "wp-content/uploads/2021/10/Janitorial-Services-Insurance-Female-Janitor-Mopping-the-Floor-of-a-Restroom-Wit-fcfde074fb.jpg",
+      "content_type": "",
+      "bytes": 110171
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Jewelers-Insurance-Close-up-of-a-Young-Female-Jewelers-Hands-Working-on-a-New-Silver-Ring-at-Her-Workbench.jpg",
+      "local_path": "wp-content/uploads/2021/10/Jewelers-Insurance-Close-up-of-a-Young-Female-Jewelers-Hands-Working-on-a-New-Si-a106372d5d.jpg",
+      "content_type": "",
+      "bytes": 81430
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Key-Person-Life-Insurance-Colleagues-Laughing-and-Working-Together-in-the-Conference-Room-of-a-Modern-Office-with-Lots-of-Light-and-Large-Pane-Glass-Windows-in-the-City.jpg",
+      "local_path": "wp-content/uploads/2021/10/Key-Person-Life-Insurance-Colleagues-Laughing-and-Working-Together-in-the-Confer-43e18438a5.jpg",
+      "content_type": "",
+      "bytes": 109117
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Land-Surveyor-Insurance-Level-on-a-Tripod-With-Two-Construction-Workers-in-the-Background-of-a-Construction-Site-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Land-Surveyor-Insurance-Level-on-a-Tripod-With-Two-Construction-Workers-in-the-B-aa25d5b812.jpg",
+      "content_type": "",
+      "bytes": 71804
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Landscaping-Services-Insurance-Landscape-Gardener-Laying-Turf-for-New-Lawn-with-Wheelbarrow-of-a-Backyard-Patio-in-a-Fenced-in-Yard-on-a-Bright-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Landscaping-Services-Insurance-Landscape-Gardener-Laying-Turf-for-New-Lawn-with-3426ad484f.jpg",
+      "content_type": "",
+      "bytes": 165016
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Legal-Professional-Insurance-Close-up-of-Businessman-and-Lawyer-Having-a-Meeting-in-the-Office-With-Law-and-Legal-Services-Concept.jpg",
+      "local_path": "wp-content/uploads/2021/10/Legal-Professional-Insurance-Close-up-of-Businessman-and-Lawyer-Having-a-Meeting-d0a25cf41a.jpg",
+      "content_type": "",
+      "bytes": 104458
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Liquor-Liability-Insurance-Close-up-View-of-a-Bartender-Pouring-Red-Wine-into-a-Glass-over-an-Antique-Bar-with-Bottles-Blurred-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Liquor-Liability-Insurance-Close-up-View-of-a-Bartender-Pouring-Red-Wine-into-a-fa233c8b7c.jpg",
+      "content_type": "",
+      "bytes": 128993
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Livestock-Mortality-Insurance-Son-With-Hay-Trying-to-Take-Care-and-Feed-the-Sheep-and-Goats-in-a-Countryside-Farm.jpg",
+      "local_path": "wp-content/uploads/2021/10/Livestock-Mortality-Insurance-Son-With-Hay-Trying-to-Take-Care-and-Feed-the-Shee-82c6b1e990.jpg",
+      "content_type": "",
+      "bytes": 135353
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Logging-Insurance-Logs-Stacked-Along-a-Forest-Road-After-Being-Cut-by-a-Harvester-Working-in-a-Forest.jpg",
+      "local_path": "wp-content/uploads/2021/10/Logging-Insurance-Logs-Stacked-Along-a-Forest-Road-After-Being-Cut-by-a-Harveste-e8c0bf872f.jpg",
+      "content_type": "",
+      "bytes": 215976
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Long-Term-Care-Insurance-Senior-Man-Close-up-While-Sitting-and-Talking-with-His-Relative-during-a-Visit-to-His-Residence-at-a-Senior-Care-Facility-.jpg",
+      "local_path": "wp-content/uploads/2021/10/Long-Term-Care-Insurance-Senior-Man-Close-up-While-Sitting-and-Talking-with-His-3fa523efc4.jpg",
+      "content_type": "",
+      "bytes": 104216
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Long-Term-Disability-Insurance-Close-up-of-a-Man-Using-a-Wheelchair-in-the-Doctors-Office-with-the-Reception-Desk-Area-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Long-Term-Disability-Insurance-Close-up-of-a-Man-Using-a-Wheelchair-in-the-Docto-a799feb45a.jpg",
+      "content_type": "",
+      "bytes": 103268
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Machine-Shop-Insurance-Male-Engineer-Working-on-a-Laptop-Computer-in-Machine-Factory-and-Checking-Quality-Control-and-the-Condition-of-the-Machine.jpg",
+      "local_path": "wp-content/uploads/2021/10/Machine-Shop-Insurance-Male-Engineer-Working-on-a-Laptop-Computer-in-Machine-Fac-26997fd9fc.jpg",
+      "content_type": "",
+      "bytes": 114138
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Manufacturer-Insurance-Manufacturing-Engineer-Working-in-a-Warehouse-in-a-Blue-Jumpsuit-with-a-White-Hard-Hat-and-Operating-a-Lathe-Machine.jpg",
+      "local_path": "wp-content/uploads/2021/10/Manufacturer-Insurance-Manufacturing-Engineer-Working-in-a-Warehouse-in-a-Blue-J-46e856cbdb.jpg",
+      "content_type": "",
+      "bytes": 124050
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Marine-Contractor-Insurance-A-Welder-Suspended-With-Cables-and-Working-on-a-Large-Ship-in-a-Shipyard-in-the-Evening.jpg",
+      "local_path": "wp-content/uploads/2021/10/Marine-Contractor-Insurance-A-Welder-Suspended-With-Cables-and-Working-on-a-Larg-8e2d940c27.jpg",
+      "content_type": "",
+      "bytes": 111235
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Masonry-Contractor-Insurance-Close-up-of-Construction-Worker-With-Protective-Gear-and-Trowel-and-Mortar-Building-Brick-Walls.jpg",
+      "local_path": "wp-content/uploads/2021/10/Masonry-Contractor-Insurance-Close-up-of-Construction-Worker-With-Protective-Gea-ea43f55baf.jpg",
+      "content_type": "",
+      "bytes": 129259
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Mechanical-Contractor-Insurance-Male-Engineer-Performing-Maintenance-on-Heavy-Machine-in-the-Factory-in-a-Safety-Uniform-With-Goggles-and-Helmet.jpg",
+      "local_path": "wp-content/uploads/2021/10/Mechanical-Contractor-Insurance-Male-Engineer-Performing-Maintenance-on-Heavy-Ma-b3b5cdc4a1.jpg",
+      "content_type": "",
+      "bytes": 92522
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Media-and-Web-Design-Insurance-Close-up-of-a-Web-Developer-Creating-a-Website-Design-and-Coding-Technologies-in-a-Software-Company-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Media-and-Web-Design-Insurance-Close-up-of-a-Web-Developer-Creating-a-Website-De-2b94a18802.jpg",
+      "content_type": "",
+      "bytes": 81228
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Medical-Office-Insurance-Portrait-of-Smiling-Female-Doctor-Wearing-White-Coat-with-Stethoscope-Sitting-behind-Her-Desk-in-the-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Medical-Office-Insurance-Portrait-of-Smiling-Female-Doctor-Wearing-White-Coat-wi-d150e7f569.jpg",
+      "content_type": "",
+      "bytes": 97896
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Mobile-Home-Insurance-Row-of-Mobile-Homes-in-a-Trailer-Park-Along-a-Well-Maintained-Road.jpg",
+      "local_path": "wp-content/uploads/2021/10/Mobile-Home-Insurance-Row-of-Mobile-Homes-in-a-Trailer-Park-Along-a-Well-Maintai-e132b74468.jpg",
+      "content_type": "",
+      "bytes": 137201
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Mobile-Home-Park-Insurance-Landscape-View-of-a-Row-of-Mobile-Homes-in-a-Clean-and-Newly-Developed-Mobile-Home-Park-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Mobile-Home-Park-Insurance-Landscape-View-of-a-Row-of-Mobile-Homes-in-a-Clean-an-4999593076.jpg",
+      "content_type": "",
+      "bytes": 173274
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Motorcycle-Dealership-Insurance-View-of-Man-From-Behind-Holding-a-Motorcycle-Helmet-and-Looking-at-a-Motorcycle-in-a-Dealership-Shop.jpg",
+      "local_path": "wp-content/uploads/2021/10/Motorcycle-Dealership-Insurance-View-of-Man-From-Behind-Holding-a-Motorcycle-Hel-7b6b575a18.jpg",
+      "content_type": "",
+      "bytes": 136408
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Motorcycle-Insurance-Motorcycle-Driver-Riding-Along-a-Scenic-Highway-at-Dusk-With-Mountains-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Motorcycle-Insurance-Motorcycle-Driver-Riding-Along-a-Scenic-Highway-at-Dusk-Wit-12053f69af.jpg",
+      "content_type": "",
+      "bytes": 161603
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Moving-Company-Insurance-Moving-Company-Delivering-Goods-to-a-Young-Woman-by-Cargo-Van-While-She-Is-Signing-Documents-and-Mover-Unloads-Cardboard-Parcels-in-the-Background.jpg",
+      "local_path": "wp-content/uploads/2021/10/Moving-Company-Insurance-Moving-Company-Delivering-Goods-to-a-Young-Woman-by-Car-cbc21d7fd0.jpg",
+      "content_type": "",
+      "bytes": 108461
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Municipality-Insurance-Abstract-View-Looking-up-a-Municipal-Building-in-a-Large-City-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Municipality-Insurance-Abstract-View-Looking-up-a-Municipal-Building-in-a-Large-9393880a4b.jpg",
+      "content_type": "",
+      "bytes": 185214
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Nail-Salon-Insurance-Woman-Getting-Her-Nails-Done-by-a-Beautician-Manicurist-in-a-Nail-Salon.jpg",
+      "local_path": "wp-content/uploads/2021/10/Nail-Salon-Insurance-Woman-Getting-Her-Nails-Done-by-a-Beautician-Manicurist-in-3592f64c8d.jpg",
+      "content_type": "",
+      "bytes": 93527
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Natural-Disaster-Insurance-Demolition-Control-Supervisor-and-Contractor-Discussing-Building-Condition-after-a-Natural-Disaster-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Natural-Disaster-Insurance-Demolition-Control-Supervisor-and-Contractor-Discussi-e6f4a9c485.jpg",
+      "content_type": "",
+      "bytes": 156960
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Nightclub-and-Bar-Insurance-Focus-of-a-DJ-in-a-Nightclub-Smiling-and-Listening-to-Her-Own-Beats-in-Front-of-a-Large-Dancing-Crown-with-Lots-of-Neon-Lights.jpg",
+      "local_path": "wp-content/uploads/2021/10/Nightclub-and-Bar-Insurance-Focus-of-a-DJ-in-a-Nightclub-Smiling-and-Listening-t-fed010373c.jpg",
+      "content_type": "",
+      "bytes": 113785
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Non-Profit-Insurance-Happy-Young-Volunteers-Wearing-Gloves-and-Collecting-and-Sorting-Food-While-Working-Together-for-Donations-in-a-Charitable-Organization.jpg",
+      "local_path": "wp-content/uploads/2021/10/Non-Profit-Insurance-Happy-Young-Volunteers-Wearing-Gloves-and-Collecting-and-So-ec4b41732b.jpg",
+      "content_type": "",
+      "bytes": 106170
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Ocean-Marine-Insurance-Container-Freight-Cargo-Ship-for-Global-Commerce-Business-Import-Export-Trade-Logistics-and-Transportation-Headed-Overseas.jpg",
+      "local_path": "wp-content/uploads/2021/10/Ocean-Marine-Insurance-Container-Freight-Cargo-Ship-for-Global-Commerce-Business-188c6a4410.jpg",
+      "content_type": "",
+      "bytes": 165852
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Off-Road-Vehicle-Insurance-Happy-Young-Couple-Riding-ATV-Together-Along-a-Dirt-Road-in-the-Countryside-on-a-Sunny-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Off-Road-Vehicle-Insurance-Happy-Young-Couple-Riding-ATV-Together-Along-a-Dirt-R-e73535770d.jpg",
+      "content_type": "",
+      "bytes": 122023
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Office-Building-Insurance-Business-Colleagues-Walking-up-the-Stairs-of-a-Modern-Corporate-Office-Building-in-a-Large-City.jpg",
+      "local_path": "wp-content/uploads/2021/10/Office-Building-Insurance-Business-Colleagues-Walking-up-the-Stairs-of-a-Modern-c12af75d10.jpg",
+      "content_type": "",
+      "bytes": 131851
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Oil-and-Gas-Insurance-Side-View-of-Worker-in-Overalls-and-Yellow-Helmet-Pressing-Button-on-a-Dashboard-to-Monitor-Oil-Production-in-an-Oil-and-Gas-Refinery.jpg",
+      "local_path": "wp-content/uploads/2021/10/Oil-and-Gas-Insurance-Side-View-of-Worker-in-Overalls-and-Yellow-Helmet-Pressing-d13f1fbef7.jpg",
+      "content_type": "",
+      "bytes": 147183
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Pest-Control-Insurance-Exterminator-in-Full-Body-Work-Gear-Spraying-Pesticide-Within-a-Family-Home-and-Using-Sprayer-Underneath-Furniture.jpg",
+      "local_path": "wp-content/uploads/2021/10/Pest-Control-Insurance-Exterminator-in-Full-Body-Work-Gear-Spraying-Pesticide-Wi-0b04094d06.jpg",
+      "content_type": "",
+      "bytes": 76700
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Pet-Business-Insurance-Young-and-Joyful-Girl-Shopping-in-a-Pet-Store-with-Her-New-Poodle-Puppy-and-Giving-Him-with-a-Kiss.jpg",
+      "local_path": "wp-content/uploads/2021/10/Pet-Business-Insurance-Young-and-Joyful-Girl-Shopping-in-a-Pet-Store-with-Her-Ne-1f11d59fb6.jpg",
+      "content_type": "",
+      "bytes": 149628
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Pet-Insurance-Happy-Golden-Retriever-and-Adult-Cat-Playing-Together-on-the-Floor-in-the-Kitchen-of-Family-Home-While-Waiting-for-Food.jpg",
+      "local_path": "wp-content/uploads/2021/10/Pet-Insurance-Happy-Golden-Retriever-and-Adult-Cat-Playing-Together-on-the-Floor-6e06fa7e16.jpg",
+      "content_type": "",
+      "bytes": 63652
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Plumbing-Contractor-Insurance-Female-Plumber-Sitting-on-the-Floor-and-Working-to-Fix-Leaking-Sink-In-a-Home-Bathroom-Seen-From-the-Doorway.jpg",
+      "local_path": "wp-content/uploads/2021/10/Plumbing-Contractor-Insurance-Female-Plumber-Sitting-on-the-Floor-and-Working-to-7db58e5162.jpg",
+      "content_type": "",
+      "bytes": 99334
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Probate-Bond-Close-up-of-a-Woman-Giving-Her-Signature-for-a-Business-and-Financial-Contract-In-the-Office-of-an-Insurance-Agent.jpg",
+      "local_path": "wp-content/uploads/2021/10/Probate-Bond-Close-up-of-a-Woman-Giving-Her-Signature-for-a-Business-and-Financi-3b9d44f42d.jpg",
+      "content_type": "",
+      "bytes": 74495
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Professional-Services-Insurance-Checking-Photos-From-a-Studio-Photo-Shoot-With-Photographer-Standing-at-Her-Camera-and-Getting-Ready-for-a-Second-Session.jpg",
+      "local_path": "wp-content/uploads/2021/10/Professional-Services-Insurance-Checking-Photos-From-a-Studio-Photo-Shoot-With-P-f7cc632719.jpg",
+      "content_type": "",
+      "bytes": 102815
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Property-Manager-Insurance-Property-Manager-Handing-Over-the-House-Keys-to-a-Happy-Young-Couple-Indoors-While-Standing-in-a-Newly-Renovated-Kitchen.jpg",
+      "local_path": "wp-content/uploads/2021/10/Property-Manager-Insurance-Property-Manager-Handing-Over-the-House-Keys-to-a-Hap-382da0e6fb.jpg",
+      "content_type": "",
+      "bytes": 218297
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/RV-Insurance-A-Young-Couple-Looking-at-a-Map-While-Sitting-in-Front-of-an-RV-While-Traveling-Across-Country-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/RV-Insurance-A-Young-Couple-Looking-at-a-Map-While-Sitting-in-Front-of-an-RV-Whi-51e2119475.jpg",
+      "content_type": "",
+      "bytes": 107681
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Real-Estate-Developer-Insurance-Real-Estate-Developers-Meeting-in-an-Empty-Office-of-a-Tall-Corporate-Building-to-Look-Over-Development-Plans.jpg",
+      "local_path": "wp-content/uploads/2021/10/Real-Estate-Developer-Insurance-Real-Estate-Developers-Meeting-in-an-Empty-Offic-2324d2ab43.jpg",
+      "content_type": "",
+      "bytes": 80083
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Real-Estate-Investor-Insurance-Business-Meetings-of-Real-Estate-Brokers-and-Company-Presidents-to-Select-a-Model-to-Build-a-Housing-Estate-for-Investment-Opportunities.jpg",
+      "local_path": "wp-content/uploads/2021/10/Real-Estate-Investor-Insurance-Business-Meetings-of-Real-Estate-Brokers-and-Comp-326f278673.jpg",
+      "content_type": "",
+      "bytes": 98775
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Rental-Property-Insurance-A-Professional-Real-Estate-Agent-Shows-a-Spacious-Bright-Apartment-with-Big-Windows-to-a-Young-Couple.jpg",
+      "local_path": "wp-content/uploads/2021/10/Rental-Property-Insurance-A-Professional-Real-Estate-Agent-Shows-a-Spacious-Brig-e338b298bf.jpg",
+      "content_type": "",
+      "bytes": 101513
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Renters-Insurance-Close-up-Blurred-Image-of-a-Happy-Female-Tenant-Proudly-Displaying-House-Keys-in-Focus-as-She-Moves-Into-Her-First-Apartment.jpg",
+      "local_path": "wp-content/uploads/2021/10/Renters-Insurance-Close-up-Blurred-Image-of-a-Happy-Female-Tenant-Proudly-Displa-fbdadb20da.jpg",
+      "content_type": "",
+      "bytes": 66082
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Residential-Drug-Treatment-Insurance-People-Supporting-Each-Other-in-a-Rehab-Session-With-Woman-Laying-Her-Head-on-a-Fellow-Support-Members-Shoulder.jpg",
+      "local_path": "wp-content/uploads/2021/10/Residential-Drug-Treatment-Insurance-People-Supporting-Each-Other-in-a-Rehab-Ses-56cdca8138.jpg",
+      "content_type": "",
+      "bytes": 128663
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Restaurant-Insurance-Portrait-of-a-Happy-Restaurant-Owner-and-Chef-in-the-Kitchen-of-a-Brand-New-Establishment.jpg",
+      "local_path": "wp-content/uploads/2021/10/Restaurant-Insurance-Portrait-of-a-Happy-Restaurant-Owner-and-Chef-in-the-Kitche-c7753c03eb.jpg",
+      "content_type": "",
+      "bytes": 122798
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Retail-Business-Insurance-Female-Customer-Enjoying-Shopping-in-Brand-New-Trendy-Retail-Store-and-Buying-Stylish-Clothing-While-Smiling-at-Camera.jpg",
+      "local_path": "wp-content/uploads/2021/10/Retail-Business-Insurance-Female-Customer-Enjoying-Shopping-in-Brand-New-Trendy-80bf897958.jpg",
+      "content_type": "",
+      "bytes": 122716
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Risk-Management-Happy-Young-Businesswoman-with-Clasped-Hands-Listening-to-Executive-Manager-and-Discussing-Business-Plans-at-Board-Room-Meeting.jpg",
+      "local_path": "wp-content/uploads/2021/10/Risk-Management-Happy-Young-Businesswoman-with-Clasped-Hands-Listening-to-Execut-a4dc76b443.jpg",
+      "content_type": "",
+      "bytes": 143308
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/SR-22-Close-up-of-a-Reckless-Driver-Texting-While-behind-the-Wheel-of-a-Moving-Vehicle.jpg",
+      "local_path": "wp-content/uploads/2021/10/SR-22-Close-up-of-a-Reckless-Driver-Texting-While-behind-the-Wheel-of-a-Moving-V-98e895926b.jpg",
+      "content_type": "",
+      "bytes": 73789
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/School-Insurance-Smiling-Young-Schoolgirl-Walking-past-Lockers-with-a-Backpack-and-Carrying-Books-with-Classmates-Following-behind-and-Blurred-in-the-Background.jpg",
+      "local_path": "wp-content/uploads/2021/10/School-Insurance-Smiling-Young-Schoolgirl-Walking-past-Lockers-with-a-Backpack-a-0a50778fea.jpg",
+      "content_type": "",
+      "bytes": 103652
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Secondary-Home-Insurance-Luxury-Beach-Front-Vacation-Home-with-Multiple-Balconies-and-Private-Dock-in-the-Summer-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Secondary-Home-Insurance-Luxury-Beach-Front-Vacation-Home-with-Multiple-Balconie-3ee6514cf0.jpg",
+      "content_type": "",
+      "bytes": 215548
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Self-Storage-Facility-Insurance-Close-up-Focus-On-a-Combination-Lock-on-a-Self-Storage-Door-With-the-Background-of-Rows-of-Storage-Facility-Doors-Blurred.jpg",
+      "local_path": "wp-content/uploads/2021/10/Self-Storage-Facility-Insurance-Close-up-Focus-On-a-Combination-Lock-on-a-Self-S-a771ab8b26.jpg",
+      "content_type": "",
+      "bytes": 75556
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Senior-Care-Facility-Insurance-Smiling-Man-With-Walker-Looking-at-a-Female-Caregiver-Offering-Physical-Support-as-He-tries-to-Make-His-Way-to-His-Room-at-a-Senior-Care-Facility.jpg",
+      "local_path": "wp-content/uploads/2021/10/Senior-Care-Facility-Insurance-Smiling-Man-With-Walker-Looking-at-a-Female-Careg-22885eda21.jpg",
+      "content_type": "",
+      "bytes": 105862
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Snowmobile-Insurance-Close-up-of-a-Man-in-Winter-Attire-and-Goggles-Riding-a-Snowmobile-Through-Snow-and-Trees-on-a-Winter-Day.jpg",
+      "local_path": "wp-content/uploads/2021/10/Snowmobile-Insurance-Close-up-of-a-Man-in-Winter-Attire-and-Goggles-Riding-a-Sno-8e3cc08554.jpg",
+      "content_type": "",
+      "bytes": 207614
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Social-Services-Agency-Insurance-Social-Service-Employee-With-Glasses-Talking-and-Offering-Support-to-a-Young-Girl-in-Her-Office-Near-a-Window.jpg",
+      "local_path": "wp-content/uploads/2021/10/Social-Services-Agency-Insurance-Social-Service-Employee-With-Glasses-Talking-an-7cb769a822.jpg",
+      "content_type": "",
+      "bytes": 86886
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Special-Event-Insurance-Close-up-of-a-Tasteful-Table-Set-Display-of-Wine-Glasses-and-Flowers-for-an-Large-Event-or-Celebration.jpg",
+      "local_path": "wp-content/uploads/2021/10/Special-Event-Insurance-Close-up-of-a-Tasteful-Table-Set-Display-of-Wine-Glasses-fc8b5e558d.jpg",
+      "content_type": "",
+      "bytes": 114745
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Sports-Facility-Insurance-Big-Empty-Gymnasium-With-Bright-Lights-and-Courts-for-Playing-Tennis-and-Badminton-in-a-Health-Club.jpg",
+      "local_path": "wp-content/uploads/2021/10/Sports-Facility-Insurance-Big-Empty-Gymnasium-With-Bright-Lights-and-Courts-for-e3713b03a3.jpg",
+      "content_type": "",
+      "bytes": 155040
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Staffing-Agency-Insurance-Warm-Welcome-and-Handshake-Between-a-Potential-Business-Hire-for-a-Job-Interview-With-a-Staffing-Agency-in-a-Modern-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Staffing-Agency-Insurance-Warm-Welcome-and-Handshake-Between-a-Potential-Busines-03f5b92ff0.jpg",
+      "content_type": "",
+      "bytes": 91035
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Surety-Bond-Smiling-Businessman-Examining-Documentation-over-the-Phone-and-Working-from-His-Home-Office-and-Using-a-Laptop.jpg",
+      "local_path": "wp-content/uploads/2021/10/Surety-Bond-Smiling-Businessman-Examining-Documentation-over-the-Phone-and-Worki-aa5a232a5e.jpg",
+      "content_type": "",
+      "bytes": 67333
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Systems-Breakdown-Insurance-Close-up-of-Shiny-Steel-Metal-Pipes-Piping-and-Technology-in-a-Biotechnology-Lab.jpg",
+      "local_path": "wp-content/uploads/2021/10/Systems-Breakdown-Insurance-Close-up-of-Shiny-Steel-Metal-Pipes-Piping-and-Techn-36fb696a60.jpg",
+      "content_type": "",
+      "bytes": 147848
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Technology-Firm-Insurance-Male-Executive-of-a-Technology-Firm-Using-His-Mobile-Phone-and-Troubleshooting-with-a-Client-in-the-Office.jpg",
+      "local_path": "wp-content/uploads/2021/10/Technology-Firm-Insurance-Male-Executive-of-a-Technology-Firm-Using-His-Mobile-P-aaa289265b.jpg",
+      "content_type": "",
+      "bytes": 94770
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Transportation-Insurance-Caravan-or-Convoy-of-a-Fleet-of-Semi-Trucks-in-a-Line-Along-a-Country-Highway-on-Their-Way-to-Deliver-Goods-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Transportation-Insurance-Caravan-or-Convoy-of-a-Fleet-of-Semi-Trucks-in-a-Line-A-8fc56e241e.jpg",
+      "content_type": "",
+      "bytes": 161939
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Travel-Insurance-Smiling-Young-Couple-Sitting-in-the-Departure-Lounge-with-Baggage-and-Tickets-in-the-Airport-with-Airplane-behind-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/10/Travel-Insurance-Smiling-Young-Couple-Sitting-in-the-Departure-Lounge-with-Bagga-2df7d7c4c6.jpg",
+      "content_type": "",
+      "bytes": 139933
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Trucking-Insurance-View-from-the-Rear-of-the-Truck-Traveling-up-the-Road-to-Complete-a-Delivery-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Trucking-Insurance-View-from-the-Rear-of-the-Truck-Traveling-up-the-Road-to-Comp-c5aa80bad9.jpg",
+      "content_type": "",
+      "bytes": 161821
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Umbrella-Insurance-Happy-Family-Using-a-Tablet-Together-at-on-the-Living-Room-Sofa-of-Their-Modern-Home.jpg",
+      "local_path": "wp-content/uploads/2021/10/Umbrella-Insurance-Happy-Family-Using-a-Tablet-Together-at-on-the-Living-Room-So-0b905affe9.jpg",
+      "content_type": "",
+      "bytes": 134580
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Vacant-Building-Insurance-New-Commercial-Property-Building-for-Small-Warehouse-Sitting-Vacant-on-a-Sunny-Day-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/10/Vacant-Building-Insurance-New-Commercial-Property-Building-for-Small-Warehouse-S-839f6bc37e.jpg",
+      "content_type": "",
+      "bytes": 106342
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Vacant-Home-Insurance-Hardwood-Floors-and-Exposed-Wooden-Beams-of-a-Vacant-Penthouse-Apartment-after-a-Renovation-with-Multiple-Rooms-and-View-of-Bathroom.jpg",
+      "local_path": "wp-content/uploads/2021/10/Vacant-Home-Insurance-Hardwood-Floors-and-Exposed-Wooden-Beams-of-a-Vacant-Penth-686549929b.jpg",
+      "content_type": "",
+      "bytes": 89465
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Valuable-Possessions-Insurance-Close-up-of-the-Manicured-Hands-of-a-Young-Woman-Placing-Her-Expensive-Earrings-into-Ears-for-a-Special-Occasion.jpg",
+      "local_path": "wp-content/uploads/2021/10/Valuable-Possessions-Insurance-Close-up-of-the-Manicured-Hands-of-a-Young-Woman-d45afb561a.jpg",
+      "content_type": "",
+      "bytes": 77257
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Veterinary-Office-Insurance-Veterinarian-Doctor-Comforting-While-Getting-Ready-to-Examine-a-York-Terrier-Puppy-at-the-Veterinarian-Clinic.jpg",
+      "local_path": "wp-content/uploads/2021/10/Veterinary-Office-Insurance-Veterinarian-Doctor-Comforting-While-Getting-Ready-t-0f5f74fa6a.jpg",
+      "content_type": "",
+      "bytes": 66199
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Watercraft-Insurance-Group-of-Young-Friends-Sitting-Together-While-Sailing-on-a-Yacht-and-Enjoying-a-Summer-Vacation.jpg",
+      "local_path": "wp-content/uploads/2021/10/Watercraft-Insurance-Group-of-Young-Friends-Sitting-Together-While-Sailing-on-a-e86ae06535.jpg",
+      "content_type": "",
+      "bytes": 114786
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Wedding-Insurance-Close-up-of-a-Bouquet-in-a-Brides-Hands-While-She-is-Holding-the-Arm-of-the-Groom-After-the-Wedding-Ceremony.jpg",
+      "local_path": "wp-content/uploads/2021/10/Wedding-Insurance-Close-up-of-a-Bouquet-in-a-Brides-Hands-While-She-is-Holding-t-ccd3991fd5.jpg",
+      "content_type": "",
+      "bytes": 107982
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Wholesaler-and-Distribution-Insurance-Revision-Managers-Discussing-Inventory-of-Goods-in-a-Large-Warehouse-While-Holding-a-Clipboard-and-Wearing-Safety-Vests-and-Hard-Hats.jpg",
+      "local_path": "wp-content/uploads/2021/10/Wholesaler-and-Distribution-Insurance-Revision-Managers-Discussing-Inventory-of-5971b45e7a.jpg",
+      "content_type": "",
+      "bytes": 110408
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Winery-Insurance-Wine-Grower-and-Friends-Walking-through-a-Vineyard-Drinking-Wine-and-Tasting-Grapes-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Winery-Insurance-Wine-Grower-and-Friends-Walking-through-a-Vineyard-Drinking-Win-7959dc80c0.jpg",
+      "content_type": "",
+      "bytes": 146030
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Workers-Compensation-Insurance-Portrait-of-Young-Business-Manager-Smiling-and-Looking-at-Camera-While-Holding-a-Tablet-and-Standing-in-Retail-Distribution-Center.jpg",
+      "local_path": "wp-content/uploads/2021/10/Workers-Compensation-Insurance-Portrait-of-Young-Business-Manager-Smiling-and-Lo-72791ebd4f.jpg",
+      "content_type": "",
+      "bytes": 109881
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/10/Yacht-Insurance-Back-View-of-Young-Family-of-Three-Sitting-on-a-Yacht-Deck-While-Sailing-at-Sunset.jpg",
+      "local_path": "wp-content/uploads/2021/10/Yacht-Insurance-Back-View-of-Young-Family-of-Three-Sitting-on-a-Yacht-Deck-While-36349f2245.jpg",
+      "content_type": "",
+      "bytes": 117503
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Adventure-and-Entertainment-Insurance-Friends-Wearing-Helmets-and-Protective-Great-While-Enjoying-a-Zip-Line-in-an-Adventure-in-Park.jpg",
+      "local_path": "wp-content/uploads/2021/11/Adventure-and-Entertainment-Insurance-Friends-Wearing-Helmets-and-Protective-Gre-0ffd79a751.jpg",
+      "content_type": "",
+      "bytes": 247914
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Business-Interruption-Insurance-Portrait-of-a-Frustrated-Small-Business-Owner-Standing-at-the-Counter-of-Her-Closed-Cafe.jpg",
+      "local_path": "wp-content/uploads/2021/11/Business-Interruption-Insurance-Portrait-of-a-Frustrated-Small-Business-Owner-St-1a270b5d1d.jpg",
+      "content_type": "",
+      "bytes": 219339
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Food-Truck-Insurance-Smiling-Woman-in-an-Apron-Leaning-Over-the-Counter-and-Working-in-a-Food-Truck.jpg",
+      "local_path": "wp-content/uploads/2021/11/Food-Truck-Insurance-Smiling-Woman-in-an-Apron-Leaning-Over-the-Counter-and-Work-d2d1566d53.jpg",
+      "content_type": "",
+      "bytes": 299659
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Home-Health-Care-Business-Insurance-A-Health-Professional-Visits-With-a-Young-Mother-and-Her-Child-and-Records-the-Patients-Health-Information-While-Sitting-on-the-Sofa.jpg",
+      "local_path": "wp-content/uploads/2021/11/Home-Health-Care-Business-Insurance-A-Health-Professional-Visits-With-a-Young-Mo-27b0b9c6a7.jpg",
+      "content_type": "",
+      "bytes": 273454
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Mining-Insurance-Mining-Dump-Trucks-Transporting-Coal-for-Processing-From-a-Large-Mine-at-Dusk.jpg",
+      "local_path": "wp-content/uploads/2021/11/Mining-Insurance-Mining-Dump-Trucks-Transporting-Coal-for-Processing-From-a-Larg-266ea0abd9.jpg",
+      "content_type": "",
+      "bytes": 324715
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Off-Campus-Student-Housing-Insurance-A-Group-of-Young-College-Friends-in-the-Living-Room-at-Their-Off-Campus-Home.jpg",
+      "local_path": "wp-content/uploads/2021/11/Off-Campus-Student-Housing-Insurance-A-Group-of-Young-College-Friends-in-the-Liv-2bb78b8362.jpg",
+      "content_type": "",
+      "bytes": 314796
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Short-Term-Rental-Insurance-Portrait-of-a-Young-Couple-Arriving-to-Their-Room-Rental-for-a-Summer-Vacation.jpg",
+      "local_path": "wp-content/uploads/2021/11/Short-Term-Rental-Insurance-Portrait-of-a-Young-Couple-Arriving-to-Their-Room-Re-39b5103e26.jpg",
+      "content_type": "",
+      "bytes": 220056
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/11/Warehousing-and-Logistics-Insurance-Portrait-of-a-Warehouse-Worker-Scanning-a-Box-While-Smiling-With-Fellow-Colleagues-Blurred-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2021/11/Warehousing-and-Logistics-Insurance-Portrait-of-a-Warehouse-Worker-Scanning-a-Bo-ad6fc2d09f.jpg",
+      "content_type": "",
+      "bytes": 286095
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/12/Campsite-Insurance-Friends-Camping-Together-in-the-Woods-and-Taking-Selfie-on-Phone-in-the-Fall.jpg",
+      "local_path": "wp-content/uploads/2021/12/Campsite-Insurance-Friends-Camping-Together-in-the-Woods-and-Taking-Selfie-on-Ph-552d58bd05.jpg",
+      "content_type": "",
+      "bytes": 318659
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2021/12/Landlord-and-Rental-Property-Insurance-Angled-View-of-a-Modern-Brick-Apartment-Building-With-Warm-Sunlight-Shining-From-Above.jpg",
+      "local_path": "wp-content/uploads/2021/12/Landlord-and-Rental-Property-Insurance-Angled-View-of-a-Modern-Brick-Apartment-B-9cb3c9cb32.jpg",
+      "content_type": "",
+      "bytes": 280998
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/01/Haunted-Attraction-Insurance-Halloween-Corn-Maze-Entrance-During-Sunset-With-Skeleton-Spider-and-Barn-in-the-Distance.jpg",
+      "local_path": "wp-content/uploads/2022/01/Haunted-Attraction-Insurance-Halloween-Corn-Maze-Entrance-During-Sunset-With-Ske-13bc0d0b8e.jpg",
+      "content_type": "",
+      "bytes": 118797
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/02/Commercial-Flood-Insurance-Abstract-View-of-a-Tall-Building-in-Partly-Submerged-Water-on-a-Gloomy-Day.jpg",
+      "local_path": "wp-content/uploads/2022/02/Commercial-Flood-Insurance-Abstract-View-of-a-Tall-Building-in-Partly-Submerged-c0aec269e6.jpg",
+      "content_type": "",
+      "bytes": 216256
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/02/Defense-Contractor-Insurance-IT-Specialist-Working-on-Multiple-Computers-With-With-Coding-Language-Interface-in-a-Data-Center.jpg",
+      "local_path": "wp-content/uploads/2022/02/Defense-Contractor-Insurance-IT-Specialist-Working-on-Multiple-Computers-With-Wi-6e733213f6.jpg",
+      "content_type": "",
+      "bytes": 252687
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/02/Floral-Shop-Insurance-Smiling-Florist-Arranging-a-Bouquet-at-a-Flower-Shop.jpg",
+      "local_path": "wp-content/uploads/2022/02/Floral-Shop-Insurance-Smiling-Florist-Arranging-a-Bouquet-at-a-Flower-Shop-c03981a77e.jpg",
+      "content_type": "",
+      "bytes": 304192
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/04/Home-Cyber-Insurance-Woman-Stressed-While-Sitting-at-Her-Home-Office-After-Finding-Out-Her-Computer-Has-a-Virus-Attack.jpg",
+      "local_path": "wp-content/uploads/2022/04/Home-Cyber-Insurance-Woman-Stressed-While-Sitting-at-Her-Home-Office-After-Findi-87f782ecdc.jpg",
+      "content_type": "",
+      "bytes": 261439
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/04/Personal-Injury-Protection-PIP-Insurance-Young-Woman-Rubbing-Her-Neck-and-Feeling-Sore-After-Whiplash-in-a-Car-Crash.jpg",
+      "local_path": "wp-content/uploads/2022/04/Personal-Injury-Protection-PIP-Insurance-Young-Woman-Rubbing-Her-Neck-and-Feelin-4444e028bc.jpg",
+      "content_type": "",
+      "bytes": 124512
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2022/10/Personal-Trainer-Insurance-Smiling-Woman-Exercising-in-the-Gym-With-the-Help-of-Her-Personal-Trainer-While-Listening-to-Music.jpg",
+      "local_path": "wp-content/uploads/2022/10/Personal-Trainer-Insurance-Smiling-Woman-Exercising-in-the-Gym-With-the-Help-of-b3fbc66be6.jpg",
+      "content_type": "",
+      "bytes": 176768
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Abel-Insurance-Group-Logo-Icon.png",
+      "local_path": "wp-content/uploads/2025/06/Abel-Insurance-Group-Logo-Icon-cbde72e469.png",
+      "content_type": "",
+      "bytes": 36399
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Abel-Insurance-Group-Open-Graph.jpg",
+      "local_path": "wp-content/uploads/2025/06/Abel-Insurance-Group-Open-Graph-837fed0c6d.jpg",
+      "content_type": "",
+      "bytes": 171956
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/About-Our-Agency-Closeup-View-of-the-Abel-Insurance-Group-Sign-Outside-the-Office-in-West-Virginia.jpg",
+      "local_path": "wp-content/uploads/2025/06/About-Our-Agency-Closeup-View-of-the-Abel-Insurance-Group-Sign-Outside-the-Offic-74df8c2fc6.jpg",
+      "content_type": "",
+      "bytes": 282526
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/About-Our-Agency-Smiling-Girl-Sitting-with-her-Dog-Inside-the-Abel-Insurance-Group-Office.jpg",
+      "local_path": "wp-content/uploads/2025/06/About-Our-Agency-Smiling-Girl-Sitting-with-her-Dog-Inside-the-Abel-Insurance-Gro-922d405aec.jpg",
+      "content_type": "",
+      "bytes": 123844
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/About-Waiting-Area-Inside-the-Abel-Insurance-Group-Office.jpg",
+      "local_path": "wp-content/uploads/2025/06/About-Waiting-Area-Inside-the-Abel-Insurance-Group-Office-5d8e66b023.jpg",
+      "content_type": "",
+      "bytes": 113586
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Buckhannon-WV-Closeup-View-of-the-Front-Entrance-of-the-Abel-Insurance-Group-Office-in-Buckhannon-West-Virginia.jpg",
+      "local_path": "wp-content/uploads/2025/06/Buckhannon-WV-Closeup-View-of-the-Front-Entrance-of-the-Abel-Insurance-Group-Off-7916098cea.jpg",
+      "content_type": "",
+      "bytes": 297627
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Business-Insurance-View-of-Cheerful-Small-Business-Owner-Hanging-Up-an-Open-Sign-on-her-Shop.jpg",
+      "local_path": "wp-content/uploads/2025/06/Business-Insurance-View-of-Cheerful-Small-Business-Owner-Hanging-Up-an-Open-Sign-64a4c9dbd4.jpg",
+      "content_type": "",
+      "bytes": 259465
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Contact-View-of-the-Abel-Insurance-Group-Sign-on-the-Green-Grass-in-Front-of-the-Office-in-West-Virginia.jpg",
+      "local_path": "wp-content/uploads/2025/06/Contact-View-of-the-Abel-Insurance-Group-Sign-on-the-Green-Grass-in-Front-of-the-064fcef86e.jpg",
+      "content_type": "",
+      "bytes": 325079
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Insurance-Solutions-Wooden-Desk-in-a-Small-Conference-Room-Inside-the-Abel-Insurance-Group-Office.jpg",
+      "local_path": "wp-content/uploads/2025/06/Insurance-Solutions-Wooden-Desk-in-a-Small-Conference-Room-Inside-the-Abel-Insur-bc42c1a177.jpg",
+      "content_type": "",
+      "bytes": 197197
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Insurance-by-Industry-Closeup-View-of-a-Woman-Using-a-Calculator-at-her-Desk-with-Model-Homes-on-the-Table.jpg",
+      "local_path": "wp-content/uploads/2025/06/Insurance-by-Industry-Closeup-View-of-a-Woman-Using-a-Calculator-at-her-Desk-wit-95fe6a3768.jpg",
+      "content_type": "",
+      "bytes": 192670
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Personal-Insurance-Cheerful-Parents-Having-Fun-Playing-with-Their-Daughter-at-Home.jpg",
+      "local_path": "wp-content/uploads/2025/06/Personal-Insurance-Cheerful-Parents-Having-Fun-Playing-with-Their-Daughter-at-Ho-58cb91949e.jpg",
+      "content_type": "",
+      "bytes": 252665
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/Read-Our-Reviews-Cheerful-Mother-and-Daughter-Having-Fun-Playing-with-Flour-While-Baking-in-the-Kitchen.jpg",
+      "local_path": "wp-content/uploads/2025/06/Read-Our-Reviews-Cheerful-Mother-and-Daughter-Having-Fun-Playing-with-Flour-Whil-88d5c5b7eb.jpg",
+      "content_type": "",
+      "bytes": 264124
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/06/We-Are-Independent-Waterfall-Surrounded-by-Mountains-in-the-West-Virginia-Wilderness.jpg",
+      "local_path": "wp-content/uploads/2025/06/We-Are-Independent-Waterfall-Surrounded-by-Mountains-in-the-West-Virginia-Wilder-ea3cb6fbbb.jpg",
+      "content_type": "",
+      "bytes": 337176
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/07/Carrier-American-Modern.png",
+      "local_path": "wp-content/uploads/2025/07/Carrier-American-Modern-6975c77ee6.png",
+      "content_type": "",
+      "bytes": 29921
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/07/Carrier-Hagerty.png",
+      "local_path": "wp-content/uploads/2025/07/Carrier-Hagerty-f4e29c7812.png",
+      "content_type": "",
+      "bytes": 6941
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/07/Carrier-Liberty-Mutual.png",
+      "local_path": "wp-content/uploads/2025/07/Carrier-Liberty-Mutual-310cf7d140.png",
+      "content_type": "",
+      "bytes": 22840
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/07/Carrier-Progressive.png",
+      "local_path": "wp-content/uploads/2025/07/Carrier-Progressive-4f2577d38a.png",
+      "content_type": "",
+      "bytes": 22844
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2025/07/Carrier-Travelers.png",
+      "local_path": "wp-content/uploads/2025/07/Carrier-Travelers-dd64ad21ad.png",
+      "content_type": "",
+      "bytes": 17137
+    },
+    {
+      "source_url": "https://www.abelinsgroup.com/wp-content/uploads/2026/01/Blog-Mature-Freelancer-Working-on-Laptop-and-Talking-on-Phone-on-Terrace-of-His-Wooden-Country-House-Enjoying-Nature.jpg",
+      "local_path": "wp-content/uploads/2026/01/Blog-Mature-Freelancer-Working-on-Laptop-and-Talking-on-Phone-on-Terrace-of-His-c91139c1be.jpg",
+      "content_type": "",
+      "bytes": 233637
+    }
+  ]
+}

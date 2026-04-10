@@ -1,0 +1,158 @@
+.hero-inline-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.claims-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.claims-card {
+  display: grid;
+  gap: 1.2rem;
+  padding: 1.5rem;
+  border-radius: 28px;
+  background: var(--surface-light);
+  border: 1px solid var(--border-light);
+  box-shadow: var(--shadow-soft);
+}
+
+.dark-mode .claims-card {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: var(--border-dark);
+}
+
+.claims-card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.claims-card-header h3,
+.claims-info {
+  margin: 0;
+}
+
+.claims-logo-image,
+.claims-logo-fallback {
+  width: 66px;
+  height: 66px;
+  flex-shrink: 0;
+  border-radius: 20px;
+}
+
+.claims-logo-image {
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--border-light);
+  padding: 0.7rem;
+}
+
+.claims-logo-fallback {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(11, 79, 138, 0.12);
+  color: var(--primary);
+  font-weight: 800;
+}
+
+.dark-mode .claims-logo-image {
+  border-color: var(--border-dark);
+}
+
+.claims-info {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.info-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  color: var(--muted-light);
+}
+
+.dark-mode .info-item {
+  color: var(--muted-dark);
+}
+
+.claims-actions {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.claims-actions .btn-primary,
+.claims-actions .btn-secondary {
+  width: 100%;
+}
+
+.claims-contact {
+  padding: 0 8% 5.5rem;
+}
+
+.contact-box {
+  display: grid;
+  grid-template-columns: minmax(0, 0.98fr) minmax(0, 1.02fr);
+  gap: 2rem;
+  overflow: hidden;
+  border-radius: 34px;
+  background: linear-gradient(145deg, #0a3458, #0b4f8a);
+  color: #fff;
+  box-shadow: var(--shadow-strong);
+}
+
+.contact-image img {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+.contact-text {
+  display: grid;
+  align-content: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.contact-text h3,
+.contact-text p {
+  margin: 0;
+}
+
+.contact-text p {
+  color: rgba(255, 255, 255, 0.84);
+}
+
+@media (max-width: 1080px) {
+  .claims-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .contact-box {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 780px) {
+  .claims-grid,
+  .claims-contact {
+    grid-template-columns: 1fr;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+  .claims-grid {
+    padding-bottom: 4rem;
+  }
+
+  .claims-page .section-padding {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+}

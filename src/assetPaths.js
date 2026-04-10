@@ -75,6 +75,18 @@ export const siteImagePaths = {
     localHelp:
       'abelinsgroup-images/wp-content/uploads/2025/06/Contact-View-of-the-Abel-Insurance-Group-Sign-on-the-Green-Grass-in-Front-of-the-064fcef86e.jpg',
   },
+  blog: {
+    autoGuide:
+      'abelinsgroup-images/wp-content/uploads/2021/06/Auto-Insurance-Family-Driving-to-a-Vacation-Destination-with-Kids-in-the-Back-of-725aba53e4.jpg',
+    homeGuide:
+      'abelinsgroup-images/wp-content/uploads/2021/06/Home-Insurance-Family-Home-with-a-Red-Door-and-American-Flag-Outside-3eb01e31e9.jpg',
+    floodGuide:
+      'abelinsgroup-images/wp-content/uploads/2021/10/Flood-Insurance-Close-up-View-Looking-Up-From-a-Flooded-Wet-Floor-in-a-Modern-Ki-d119afefcd.jpg',
+    businessGuide:
+      'abelinsgroup-images/wp-content/uploads/2021/10/Business-Owners-Insurance-Portrait-of-a-Smiling-and-Happy-Employee-in-a-Successf-2d73587b9d.jpg',
+    agencyGuide:
+      'abelinsgroup-images/wp-content/uploads/2025/06/Buckhannon-WV-Closeup-View-of-the-Front-Entrance-of-the-Abel-Insurance-Group-Off-7916098cea.jpg',
+  },
 };
 
 export const homeCarrierLogoPaths = [

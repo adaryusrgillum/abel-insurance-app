@@ -228,7 +228,8 @@
 }
 
 .services-section,
-.carrier-section {
+.carrier-section,
+.blog-preview-section {
   padding: 0 8% 5rem;
 }
 
@@ -399,12 +400,64 @@
   margin-top: 1.5rem;
 }
 
+.blog-preview-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.blog-preview-card {
+  display: grid;
+  gap: 0.95rem;
+  padding: 1.55rem;
+  border-radius: 28px;
+  border: 1px solid var(--border-light);
+  background: var(--surface-light);
+  box-shadow: var(--shadow-soft);
+}
+
+.dark-mode .blog-preview-card {
+  border-color: var(--border-dark);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.blog-preview-card h3,
+.blog-preview-card p {
+  margin: 0;
+}
+
+.blog-preview-card h3 {
+  font-size: 1.35rem;
+  line-height: 1.15;
+}
+
+.blog-preview-card p {
+  color: var(--muted-light);
+}
+
+.dark-mode .blog-preview-card p {
+  color: var(--muted-dark);
+}
+
+.blog-preview-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--muted-light);
+  font-size: 0.95rem;
+}
+
+.dark-mode .blog-preview-meta {
+  color: var(--muted-dark);
+}
+
 @media (max-width: 1080px) {
   .hero-stack,
   .home-quickfacts,
   .cards-grid,
   .agency-highlight,
-  .carrier-carousel {
+  .carrier-carousel,
+  .blog-preview-grid {
     grid-template-columns: 1fr;
   }
 
@@ -430,7 +483,8 @@
   .services-section,
   .agency-highlight,
   .carrier-section,
-  .home-quickfacts {
+  .home-quickfacts,
+  .blog-preview-section {
     padding-left: 1.2rem;
     padding-right: 1.2rem;
   }

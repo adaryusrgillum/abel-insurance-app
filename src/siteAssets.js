@@ -5,11 +5,11 @@ import {
   siteImagePaths,
 } from './assetPaths';
 
-const withBase = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\/+/, '')}`;
+export const toAssetUrl = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\/+/, '')}`;
 
 const prefixAssetObject = (value) => {
   if (typeof value === 'string') {
-    return withBase(value);
+    return toAssetUrl(value);
   }
 
   if (Array.isArray(value)) {
@@ -25,8 +25,8 @@ export const brandAssets = prefixAssetObject(brandAssetPaths);
 export const siteImages = prefixAssetObject(siteImagePaths);
 export const homeCarrierLogos = homeCarrierLogoPaths.map((carrier) => ({
   ...carrier,
-  src: withBase(carrier.src),
+  src: toAssetUrl(carrier.src),
 }));
 export const carrierBrandLogos = Object.fromEntries(
-  Object.entries(carrierBrandLogoPaths).map(([name, src]) => [name, withBase(src)]),
+  Object.entries(carrierBrandLogoPaths).map(([name, src]) => [name, toAssetUrl(src)]),
 );

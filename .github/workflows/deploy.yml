@@ -36,6 +36,10 @@ jobs:
         run: npm ci
 
       - name: Build site
+        env:
+          VITE_ROUTER_MODE: hash
+          VITE_SITE_URL: https://adaryusrgillum.github.io/abel-insurance-app
+          VITE_NOINDEX: true
         run: npm run build:pages
 
       - name: Setup Pages

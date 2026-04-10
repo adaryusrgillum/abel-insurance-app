@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import {
-  HashRouter as Router,
+  BrowserRouter,
+  HashRouter,
   Link,
   Route,
   Routes,
@@ -18,11 +19,22 @@ import {
   Sun,
   X,
 } from 'lucide-react';
+import { siteImagePaths } from './assetPaths';
+import PageSeo from './components/PageSeo';
 import About from './pages/About';
+import Blog from './pages/Blog';
+import BlogPost from './pages/BlogPost';
 import Business from './pages/Business';
 import Claims from './pages/Claims';
 import Home from './pages/Home';
 import Personal from './pages/Personal';
+import {
+  buildBreadcrumbSchema,
+  buildInsuranceAgencySchema,
+  buildServiceSchema,
+  buildWebsiteSchema,
+} from './seo';
+import { siteConfig, getRouterMode } from './siteConfig';
 import { siteImages } from './siteAssets';
 import './App.css';
 
@@ -30,35 +42,90 @@ const portalLink =
   'https://customerservice.agentinsure.com/EzLynxCustomerService/web/abel/account/login';
 const carrierHubLink =
   'https://www.abelinsgroup.com/about-our-agency/insurance-companies/';
-const officePhone = '3048785900';
-const officePhoneLabel = '304.878.5900';
-const officeEmail = 'info@abelinsgroup.com';
+const officePhone = siteConfig.phone;
+const officePhoneLabel = siteConfig.phoneDisplay;
+const officeEmail = siteConfig.email;
+const officeAddress = `${siteConfig.address.street}, ${siteConfig.address.city}, ${siteConfig.address.region} ${siteConfig.address.postalCode}`;
 
-const routeMeta = {
+const staticPageMeta = {
   '/': {
-    title: 'Abel Insurance | Independent Coverage for West Virginia',
+    title: 'Buckhannon, WV Insurance Agency | Auto, Home, Business | Abel Insurance',
     description:
-      'Independent insurance guidance for homes, vehicles, businesses, and life across West Virginia, backed by local service and carrier choice.',
+      'Abel Insurance is an independent insurance agency in Buckhannon, West Virginia helping with auto, home, flood, business, life, and claims support.',
+    imagePath: siteImagePaths.home.officeSign,
+    imageAlt: 'Abel Insurance office sign in Buckhannon West Virginia',
+    structuredData: () => [
+      buildWebsiteSchema(),
+      buildInsuranceAgencySchema(),
+      buildBreadcrumbSchema([{ name: 'Home', path: '/' }]),
+    ],
   },
   '/personal': {
-    title: 'Personal Insurance | Abel Insurance',
+    title: 'West Virginia Personal Insurance | Auto, Home, Umbrella | Abel Insurance',
     description:
-      'Explore auto, home, umbrella, and personal protection options with a local Abel Insurance team that can help compare coverage.',
+      'Compare West Virginia auto insurance, home insurance, umbrella, and life coverage with local guidance from Abel Insurance in Buckhannon.',
+    imagePath: siteImagePaths.personal.hero,
+    imageAlt: 'Family spending time together at home',
+    structuredData: () => [
+      buildServiceSchema({
+        name: 'West Virginia Personal Insurance',
+        description:
+          'Personal insurance guidance for auto, home, umbrella, and life coverage in West Virginia.',
+        path: '/personal',
+        serviceType: 'Personal insurance agency services',
+      }),
+      buildBreadcrumbSchema([
+        { name: 'Home', path: '/' },
+        { name: 'Personal Insurance', path: '/personal' },
+      ]),
+    ],
   },
   '/business': {
-    title: 'Business Insurance | Abel Insurance',
+    title: 'West Virginia Business Insurance Agency | Abel Insurance',
     description:
-      'Protect property, vehicles, operations, and specialty risks with business insurance guidance shaped around how your company works.',
+      'Protect property, vehicles, employees, and operations with West Virginia business insurance guidance for contractors and small businesses.',
+    imagePath: siteImagePaths.business.hero,
+    imageAlt: 'Small business owner hanging an open sign',
+    structuredData: () => [
+      buildServiceSchema({
+        name: 'West Virginia Business Insurance',
+        description:
+          'Commercial insurance guidance for West Virginia contractors, property owners, and small businesses.',
+        path: '/business',
+        serviceType: 'Business insurance agency services',
+      }),
+      buildBreadcrumbSchema([
+        { name: 'Home', path: '/' },
+        { name: 'Business Insurance', path: '/business' },
+      ]),
+    ],
   },
   '/about': {
-    title: 'About Abel Insurance | Local Independent Agency',
+    title: 'Buckhannon, WV Independent Insurance Agency | About Abel Insurance',
     description:
-      'Meet the local independent agency behind Abel Insurance and learn how we help clients navigate coverage with clarity and care.',
+      'Learn more about Abel Insurance, an independent insurance agency in Buckhannon serving West Virginia clients with local guidance and carrier choice.',
+    imagePath: siteImagePaths.about.entrance,
+    imageAlt: 'Front entrance of the Abel Insurance office in Buckhannon',
+    structuredData: () => [
+      buildInsuranceAgencySchema(),
+      buildBreadcrumbSchema([
+        { name: 'Home', path: '/' },
+        { name: 'About', path: '/about' },
+      ]),
+    ],
   },
   '/claims': {
-    title: 'Claims and Carrier Help | Abel Insurance',
+    title: 'Insurance Claims Help in West Virginia | Carrier Contacts | Abel Insurance',
     description:
-      'Find fast carrier claim and payment links, then connect with Abel Insurance for local guidance before or after you file.',
+      'Find insurance claims and payment help, carrier links, and local support from Abel Insurance in Buckhannon, West Virginia.',
+    imagePath: siteImagePaths.claims.hero,
+    imageAlt: 'Insurance agent speaking with clients at a table',
+    structuredData: () => [
+      buildBreadcrumbSchema([
+        { name: 'Home', path: '/' },
+        { name: 'Claims', path: '/claims' },
+      ]),
+    ],
   },
 };
 
@@ -72,21 +139,19 @@ const ScrollToTop = () => {
   return null;
 };
 
-const RouteMeta = () => {
-  const { pathname } = useLocation();
-
-  useEffect(() => {
-    const meta = routeMeta[pathname] ?? routeMeta['/'];
-    document.title = meta.title;
-
-    const descriptionTag = document.querySelector('meta[name="description"]');
-    if (descriptionTag) {
-      descriptionTag.setAttribute('content', meta.description);
-    }
-  }, [pathname]);
-
-  return null;
-};
+const StaticPage = ({ meta, children }) => (
+  <>
+    <PageSeo
+      title={meta.title}
+      description={meta.description}
+      path={meta.path}
+      imagePath={meta.imagePath}
+      imageAlt={meta.imageAlt}
+      structuredData={meta.structuredData()}
+    />
+    {children}
+  </>
+);
 
 const BrandLogo = ({ compact = false }) => (
   <div className={`brand-lockup ${compact ? 'compact' : ''}`}>
@@ -281,7 +346,7 @@ const SupportPanel = ({ isOpen, onClose, onQuoteClick }) => {
           <div className="support-meta">
             <div className="support-meta-row">
               <MapPin size={16} />
-              <span>172 S. Kanawha Street, Buckhannon, WV 26201</span>
+              <span>{officeAddress}</span>
             </div>
             <div className="support-meta-row">
               <ExternalLink size={16} />
@@ -336,6 +401,9 @@ const Navbar = ({
               <Link to="/claims">Claims and Carrier Help</Link>
             </li>
           </ul>
+        </li>
+        <li>
+          <Link to="/blog">Blog</Link>
         </li>
         <li>
           <Link to="/about">About Us</Link>
@@ -414,6 +482,9 @@ const Navbar = ({
 
       <div className="mobile-nav-group">
         <span className="mobile-nav-label">Agency</span>
+        <Link to="/blog" className="mobile-nav-link" onClick={onMenuClose}>
+          Blog
+        </Link>
         <Link to="/about" className="mobile-nav-link" onClick={onMenuClose}>
           About Us
         </Link>
@@ -468,7 +539,7 @@ const Footer = () => (
         </p>
         <div className="footer-contact-list">
           <p>
-            <MapPin size={16} /> 172 S. Kanawha Street, Buckhannon, WV 26201
+            <MapPin size={16} /> {officeAddress}
           </p>
           <p>
             <Phone size={16} /> {officePhoneLabel}
@@ -501,16 +572,14 @@ const Footer = () => (
         <h4>Agency</h4>
         <ul>
           <li>
+            <Link to="/blog">West Virginia Insurance Blog</Link>
+          </li>
+          <li>
             <Link to="/about">About Abel Insurance</Link>
           </li>
           <li>
             <a href={carrierHubLink} target="_blank" rel="noopener noreferrer">
               Insurance Companies
-            </a>
-          </li>
-          <li>
-            <a href="https://www.abelinsgroup.com/contact/" target="_blank" rel="noopener noreferrer">
-              Contact the Office
             </a>
           </li>
         </ul>
@@ -577,7 +646,6 @@ const AppShell = () => {
         Skip to content
       </a>
       <ScrollToTop />
-      <RouteMeta />
       <Navbar
         isDark={isDark}
         isMenuOpen={isMenuOpen}
@@ -588,11 +656,48 @@ const AppShell = () => {
       />
       <main id="main-content">
         <Routes>
-          <Route path="/" element={<Home onQuoteClick={openQuoteModal} />} />
-          <Route path="/personal" element={<Personal onQuoteClick={openQuoteModal} />} />
-          <Route path="/business" element={<Business onQuoteClick={openQuoteModal} />} />
-          <Route path="/about" element={<About onQuoteClick={openQuoteModal} />} />
-          <Route path="/claims" element={<Claims onQuoteClick={openQuoteModal} />} />
+          <Route
+            path="/"
+            element={
+              <StaticPage meta={{ ...staticPageMeta['/'], path: '/' }}>
+                <Home onQuoteClick={openQuoteModal} />
+              </StaticPage>
+            }
+          />
+          <Route
+            path="/personal"
+            element={
+              <StaticPage meta={{ ...staticPageMeta['/personal'], path: '/personal' }}>
+                <Personal onQuoteClick={openQuoteModal} />
+              </StaticPage>
+            }
+          />
+          <Route
+            path="/business"
+            element={
+              <StaticPage meta={{ ...staticPageMeta['/business'], path: '/business' }}>
+                <Business onQuoteClick={openQuoteModal} />
+              </StaticPage>
+            }
+          />
+          <Route
+            path="/about"
+            element={
+              <StaticPage meta={{ ...staticPageMeta['/about'], path: '/about' }}>
+                <About onQuoteClick={openQuoteModal} />
+              </StaticPage>
+            }
+          />
+          <Route
+            path="/claims"
+            element={
+              <StaticPage meta={{ ...staticPageMeta['/claims'], path: '/claims' }}>
+                <Claims onQuoteClick={openQuoteModal} />
+              </StaticPage>
+            }
+          />
+          <Route path="/blog" element={<Blog onQuoteClick={openQuoteModal} />} />
+          <Route path="/blog/:slug" element={<BlogPost onQuoteClick={openQuoteModal} />} />
         </Routes>
       </main>
       <Footer />
@@ -618,10 +723,12 @@ const AppShell = () => {
 };
 
 function App() {
+  const RouterComponent = getRouterMode() === 'hash' ? HashRouter : BrowserRouter;
+
   return (
-    <Router>
+    <RouterComponent>
       <AppShell />
-    </Router>
+    </RouterComponent>
   );
 }
 

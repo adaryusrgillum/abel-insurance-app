@@ -1,7 +1,8 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ArrowRight, ExternalLink, MapPin, Shield, Users } from 'lucide-react';
+import { ArrowRight, Clock3, ExternalLink, MapPin, Shield, Users } from 'lucide-react';
 import Coin3D from '../components/Coin3D';
+import { featuredBlogPosts } from '../content/blogPosts';
 import { brandAssets, homeCarrierLogos, siteImages } from '../siteAssets';
 import './Home.css';
 
@@ -55,6 +56,8 @@ const Home = ({ onQuoteClick }) => {
       path: '/business',
     },
   ];
+
+  const insightPosts = featuredBlogPosts.slice(0, 3);
 
   return (
     <div className="home-container">
@@ -188,6 +191,34 @@ const Home = ({ onQuoteClick }) => {
 
         <button className="carrier-link" onClick={() => navigate('/claims')}>
           View claims and carrier help <ArrowRight size={16} />
+        </button>
+      </section>
+
+      <section className="blog-preview-section">
+        <div className="section-header">
+          <span className="section-kicker">West Virginia insurance insights</span>
+          <h2>Helpful articles that answer the questions clients ask before they buy.</h2>
+        </div>
+
+        <div className="blog-preview-grid">
+          {insightPosts.map((post) => (
+            <article key={post.slug} className="blog-preview-card">
+              <span className="badge">{post.category}</span>
+              <h3>{post.title}</h3>
+              <p>{post.excerpt}</p>
+              <div className="blog-preview-meta">
+                <Clock3 size={15} />
+                <span>{post.readTime}</span>
+              </div>
+              <button className="card-link" onClick={() => navigate(`/blog/${post.slug}`)}>
+                Read the article <ArrowRight size={16} />
+              </button>
+            </article>
+          ))}
+        </div>
+
+        <button className="btn-secondary" onClick={() => navigate('/blog')}>
+          Browse the full blog
         </button>
       </section>
     </div>
